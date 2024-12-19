@@ -23,9 +23,27 @@ Hasta hace unos años la manera principal de disfrutar eventos como obras teatra
 
 Las aplicaciones que pondré como ejemplo son Oculus TV (renombrado actualmente como Meta Quest TV) y Xtadium, en las cuales si bien ofrecen experiencias muy similares se diferencian en un pequeño detalle: La navegabilidad en 3D por el escenario y los datos que ofrecen.
 
+![Meta logo](https://github.com/user-attachments/assets/7c6627f9-867d-4862-a95e-d54a5139ec88)
+(Logo actual de Meta, anteriormente Oculus)
+
 En el caso de Meta Quest TV, esta aplicación actúa como un gran gestor de experiencias multimedia inmersivas y planas, desde la cual se pueden disfrutar videos en directo o diferido de todo tipo, animaciones 3D e incluso mundos propios creados por usuarios. En lo referente a los videos, los/as usuarios/as pueden experimentarlos en una pantalla gigante (o pequeña), en 180º o 360º y 3D. Una vez das a reproducir cualquier video, este consigue un componente de espacialidad en 3D, lo cual permite experimentar una sensación de presencia, además, queda reforzado cuando interactúas con las opciones mediante la interfaz, pues esta se superpone en dicho espacio 3D dentro del video.
 
+![Meta TV 1](https://github.com/user-attachments/assets/295be166-9aca-485c-b00d-e7431b2db91a)
+(Ejemplo de interfaz principal en Meta Quest TV)
+
+![Meta TV 2](https://github.com/user-attachments/assets/b3228b72-a062-49a9-a9f2-bf77269071b8)
+(Interfaz superpuesta en un video inmersivo de National Geographic)
+
+
+
 Xtadium, por el contrario que Meta Quest TV se centra en los eventos en vivo y diferidos de todo tipo de deportes (Baloncesto, Fútbol, Tenis, WWE, etc.). Al igual que en el primer ejemplo, puedes disfrutar los eventos en varios modos (Pantalla plana, 180º o 360º) gracias a sus cámaras especiales que captan la profundidad de espacio de manera panorámica para representarla luego en 3D, sin embargo, van un paso más allá permitiendo interactuar orgánicamente con el video (tal y como se mencionó anteriormente gracias a su componente de espacialidad). Esta nueva característica permite elegir la perspectiva sobre la cual disfrutaremos dicho evento. Su funcionalidad se puede resumir en una limitada navegabilidad en 3D por distintas partes de los videos en directo (o diferido), con la intención principal de mejorar el confort del visionado. Sumado a eso, la aplicación también otorga distintas estadísticas que puedes posicionar en cualquier lugar del video, dotando de más profundidad para usuarios/as técnicos/as.
+
+![Xtadium](https://github.com/user-attachments/assets/f435ceaa-307b-47c1-98f9-124262eded89)
+(Modo de visualización inmersiva en Xtadium)
+
+![Xtadium 1](https://github.com/user-attachments/assets/1288ec2a-8c38-462f-b09b-d039ff36b197)
+(Modo de visualización en varias pantallas planas en Xtadium)
+
 
 Tras conocer cómo funcionan y lo que ofrecen dichas aplicaciones, resulta más sencillo comprender que constituyen un nuevo medio nacido de la hibridación de otros como el video, sonido, imágenes, entornos 3D, posicionamiento y movilidad en 3D y transmisión en directo confluyendo directamente sumado a una interfaz de opciones nuevas y conocidas, lo cual da como resultado la interacción necesaria para su correcta experimentación.
 
@@ -39,7 +57,17 @@ Los serious games han ido ganando popularidad con el tiempo gracias a su compone
 
 Enseñar a conducir correctamente una carretilla elevadora, hacer un uso correcto de herramientas de mano e incluso maquinaria compleja especializada sin correr ningún riesgo son tareas que resultan necesarias para garantizar la seguridad de los/as trabajadores/as que vayan a emplearlas. Marine Trainer ofrece dicho servicio a empresas que lo necesiten mediante una simulación desarrollada específicamente para su uso en realidad virtual, ofreciendo a los/as usuarios/as un entorno completamente inmersivo en la que aprender a realizar todas esas tareas (y muchas otras más) de la manera más segura posible.
 
+![Simulación 1](https://github.com/user-attachments/assets/9ace4f16-bd09-4d92-bd51-b0ec001340fc)
+(Entorno de simulación CNC)
+
 Todo eso es posible gracias al resultado de hibridar distintos medios como texto, imágenes, sonido, video, entornos 3D, interfaces y otros añadidos como la espacialidad en el movimiento e interacción. Esto quiere decir que puedes moverte libremente por el entorno (o donde se indique), así como interactuar con la mayoría de los objetos, botones y aparatos mediante controladores o manos (hand-tracking). Este nuevo componente de interacción resulta además en nuevas maneras de interactuar con interfaces, las cuales se vuelven diegéticas debido a la integración con el entorno y los objetos que lo componen (señales en el suelo, instrucciones en libros o video instrucciones en ventanas flotantes, enfatizar componentes clave para la interacción mediante el cambio de material) y resultan necesarias para que las técnicas transmitidas por la simulación puedan aplicarse 1 a 1 en la vida real.
+
+![Simulación 2](https://github.com/user-attachments/assets/9149d8b9-b118-42cd-881a-a328c1a7ca14)
+(Ejemplos de interacción con interfaces en el entorno de simulación CNN)
+
+![Simulacion 3](https://github.com/user-attachments/assets/026f647f-6a42-416f-a122-378b6cc77290)
+
+(Ejemplos de interacción con objetos en el entorno de simulación CNN)
 
 En mi opinión, este nuevo medio me resulta fascinante por su capacidad de permitir aprender una tarea mediante una simulación, la cual acabarás desarrollando con destreza en la vida real, agilizando el proceso de aprendizaje y volviéndolo más seguro. Sin duda, es algo que ya representa el presente y que ganará aún más fuerza en el futuro (igual hibridando en otros medios) debido a sus cualidades.
 
